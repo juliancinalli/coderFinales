@@ -1,0 +1,13 @@
+/* ---------- EXTEND ---------- */
+
+.infoTextual {
+    padding-right: 15px;
+    font-size: 17px;
+}
+
+.infoTextual2 {
+    @extend .infoTextual;
+    text-decoration: underline;
+    color: #5c5c5c;
+    padding-left: 10px;
+}

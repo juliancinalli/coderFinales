@@ -1,0 +1,8 @@
+En todas las páginas sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: 
+
+“Laboratorio Fotográfico Tokyo, revelados, fotos y mucho mas"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "HTML, FOTOS, REVELADO, VIDEOS, VINTAGE, CAMARAS, ROLLOS"
+
+Encabezado: para el encabezado del h1 utilicé el texto “# O N L Y   I N   T O K Y O”

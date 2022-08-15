@@ -1,0 +1,8 @@
+/* ---------- MAP - GET ---------- */
+
+$estilo:(color:#eebdd600, tamFuente:40px);
+
+.titulosPrincipales {
+    background-color: map-get($map: $estilo, $key: color);
+    font-size: map-get($map: $estilo, $key: tamFuente)
+}

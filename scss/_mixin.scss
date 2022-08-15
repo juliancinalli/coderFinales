@@ -1,0 +1,16 @@
+/* ---------- MIXIN ---------- */
+
+@mixin redes {
+    display: flex;
+    font-size: 180%;
+    text-align: justify;
+    padding: 10px 15px;
+    justify-content: center;
+}
+
+.redesSociales {
+    @include redes;
+    background-color: rgba(250, 211, 132, 0);
+    justify-content: left;
+    width: fit-content;
+  }

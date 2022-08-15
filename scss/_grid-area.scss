@@ -1,0 +1,84 @@
+/* ---------- GRID INDEX ---------- */
+
+.bodyIndexGrid {
+    display: grid;
+    grid-template-areas: "header" "preTitulo1" "productosIndex" "preTitulo2" "serviciosIndex" "seccionRedes" "footer";
+  }
+  
+  header {
+    grid-area: header;
+  }
+
+  .preTitulo1 {
+    grid-area: preTitulo1;
+  }
+
+  .preTitulo2 {
+    grid-area: preTitulo2;
+  }
+  
+  .productosIndex {
+    grid-area: productosIndex;
+  }
+  
+  .serviciosIndex {
+    grid-area: serviciosIndex;
+  }
+  
+ .seccionRedes {
+  grid-area: seccionRedes;
+ }
+
+  
+  
+  footer {
+    grid-area: footer;
+  }
+  
+  /* ---------- GRID SERVICIOS ---------- */
+  
+  .bodyServiciosGrid {
+    display: grid;
+    grid-template-areas: "header" "servicios" "seccionRedes" "footer";
+  }
+  
+  .servicios{
+    grid-area: servicios;
+  }
+  
+  /* ---------- GRID PRODUCTOS ---------- */
+  
+  .bodyProductosGrid {
+    display: grid;
+    grid-template-areas: "header" "productos" "seccionRedes" "footer";
+  }
+  
+  .productos {
+    grid-area: productos;
+  }
+  
+  /* GRID FAQ */
+  
+  .bodyFaqGrid {
+    display: grid;
+    grid-template-areas: "header" "fotoFaq" "seccionRedes" "footer";
+  }
+  
+  .fotoFaq {
+    grid-area: fotoFaq;
+  }
+  
+  .mainFaq {
+    grid-area: mainFaq;
+  }
+  
+  /* GRID CONTACTO */
+  
+  .bodyContactoGrid {
+    display: grid;
+    grid-template-areas: "header" "mainContacto" "seccionRedes" "footer";
+  }
+  
+  .mainContacto {
+    grid-area: mainContacto;
+  }
