@@ -197,7 +197,8 @@ a {
 label {
   display: inline-block;
   width: 90px;
-  height: 40px; }
+  height: 40px;
+  display: none; }
 
 .redes {
   text-decoration: underline 1px;
