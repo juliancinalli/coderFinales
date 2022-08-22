@@ -114,6 +114,7 @@ footer {
   justify-content: left;
   width: fit-content; }
 
+/* ---------- FOOTER ---------- */
 footer {
   color: black;
   margin-top: 20px;
@@ -196,7 +197,7 @@ a {
 label {
   display: inline-block;
   width: 90px;
-  height: 40px; }
+  height: 50px; }
 
 .redes {
   text-decoration: underline 1px;
@@ -272,5 +273,9 @@ label {
     height: 3332px; } }
 
 @media (max-width: 430px) {
+  .titulosPrincipales {
+    font-size: 30px; } }
+
+@media (max-width: 370px) {
   .titulosPrincipales {
     font-size: 30px; } }
