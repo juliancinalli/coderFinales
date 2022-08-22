@@ -21,6 +21,7 @@
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.19"
   },
+<<<<<<< HEAD
   "dependencies": {
     "abbrev": "^1.1.1",
     "agent-base": "^6.0.2",
@@ -251,5 +252,7 @@
     "yargs": "^17.5.1",
     "yargs-parser": "^20.2.9"
   },
+=======
+>>>>>>> 1cd9584 (actualizacion)
   "description": ""
 }
